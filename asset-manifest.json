@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devyaniwaghmare/done.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/devyaniwaghmare/done.git/static/js/main.adb96513.chunk.js",
+    "main.js.map": "/devyaniwaghmare/done.git/static/js/main.adb96513.chunk.js.map",
+    "runtime-main.js": "/devyaniwaghmare/done.git/static/js/runtime-main.c2cd2da3.js",
+    "runtime-main.js.map": "/devyaniwaghmare/done.git/static/js/runtime-main.c2cd2da3.js.map",
+    "static/js/2.9f0b5de0.chunk.js": "/devyaniwaghmare/done.git/static/js/2.9f0b5de0.chunk.js",
+    "static/js/2.9f0b5de0.chunk.js.map": "/devyaniwaghmare/done.git/static/js/2.9f0b5de0.chunk.js.map",
+    "index.html": "/devyaniwaghmare/done.git/index.html",
+    "precache-manifest.71afe2bd231045f55b759653bb1f9062.js": "/devyaniwaghmare/done.git/precache-manifest.71afe2bd231045f55b759653bb1f9062.js",
+    "service-worker.js": "/devyaniwaghmare/done.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/devyaniwaghmare/done.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/devyaniwaghmare/done.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2cd2da3.js",
+    "static/js/2.9f0b5de0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.adb96513.chunk.js"
+  ]
+}
